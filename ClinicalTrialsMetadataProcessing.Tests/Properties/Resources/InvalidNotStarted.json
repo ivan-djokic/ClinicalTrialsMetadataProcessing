@@ -1,0 +1,7 @@
+{
+	"trialId": "CTM-26107",
+	"title": "Invalid StartDate (less than DateTime.Now)",
+	"startDate": "2024-06-30",
+	"participants": 2,
+	"status": "Not Started"
+}
