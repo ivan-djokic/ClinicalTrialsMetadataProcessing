@@ -1,0 +1,6 @@
+@ClinicalTrialsMetadataProcessing_HostAddress = http://localhost:5147
+
+GET {{ClinicalTrialsMetadataProcessing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
