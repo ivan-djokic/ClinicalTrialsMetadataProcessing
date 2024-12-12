@@ -1,8 +1,0 @@
-{
-	"trialId": "CTM-81328",
-	"title": "Invalid EndDate (greather than DateTime.Now)",
-	"startDate": "2024-06-30",
-	"endDate": "3024-07-01",
-	"participants": 11,
-	"status": "Completed"
-}

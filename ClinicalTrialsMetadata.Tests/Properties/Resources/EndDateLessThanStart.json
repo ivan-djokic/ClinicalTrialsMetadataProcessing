@@ -1,8 +1,0 @@
-{
-	"trialId": "CTM-21476",
-	"title": "Invalid EndDate (less than StartDate)",
-	"startDate": "2025-06-30",
-	"endDate": "2024-06-30",
-	"participants": 5,
-	"status": "Not started"
-}
